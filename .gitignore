@@ -1,0 +1,14 @@
+# Prywatne raporty i dane wrażliwe
+security/reports/private/
+
+# Sekrety, klucze i konfiguracja lokalna
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Pliki systemowe i edytorów
+.DS_Store
+*.swp
