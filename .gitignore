@@ -12,3 +12,6 @@ security/reports/private/
 # Pliki systemowe i edytorów
 .DS_Store
 *.swp
+
+__pycache__/
+*.pyc
